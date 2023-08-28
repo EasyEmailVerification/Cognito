@@ -1,0 +1,4 @@
+com/easyemailverification/code/Cognito/aws/Cognito.class
+com/easyemailverification/code/Cognito/aws/JwkKey.class
+com/easyemailverification/code/Cognito/aws/JwksKeys.class
+com/easyemailverification/code/Cognito/aws/CognitoRSAKeyProvider.class
