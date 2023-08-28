@@ -53,14 +53,13 @@ public class TokenVerifier {
 ## Installation
 
 To use this library in your project, you can include it as a dependency in your Maven project's `pom.xml` file:
-
-```xml
 It's not available yet.
+```xml
 <dependencies>
     <dependency>
         <groupId>com.easyemailverification.code</groupId>
         <artifactId>cognito-jwt-validator</artifactId>
-        <version>1.0.0</version> <!-- Replace with the actual version -->
+        <version>It's not available yet.</version> <!-- Replace with the actual version -->
     </dependency>
 </dependencies>
 ```
