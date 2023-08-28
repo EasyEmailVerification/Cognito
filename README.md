@@ -55,6 +55,7 @@ public class TokenVerifier {
 To use this library in your project, you can include it as a dependency in your Maven project's `pom.xml` file:
 
 ```xml
+It's not available yet.
 <dependencies>
     <dependency>
         <groupId>com.easyemailverification.code</groupId>
